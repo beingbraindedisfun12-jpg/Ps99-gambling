@@ -46,7 +46,7 @@ Config = {
     },
     "Rakeback" : 1, # Rakeback %
     "Username": "hoops_washiez", # The Username Of The Account Running The Bot
-    "DiscordBotToken": "MTQzNjM5MzUzNzcyNTAxMDA4OQ.GoBX0L.2um5aAHLBwmOFFQBDmCE8hxNKXBak6xS73DbKI" # The token of the discord bot
+    "DiscordBotToken": "MTQzNjM5MzUzNzcyNTAxMDA4OQ.GGinz_.f-DM0fADEh-y6ACBiIZYZpoNgPnG5DEoTTAFl0" # The token of the discord bot
 }
 username = Config['Username']
 
