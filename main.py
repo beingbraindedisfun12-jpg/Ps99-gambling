@@ -45,8 +45,8 @@ Config = {
         "House": 0.95 # house edge (winnings*house)
     },
     "Rakeback" : 1, # Rakeback %
-    "Username": "blinxostock", # The Username Of The Account Running The Bot
-    "DiscordBotToken": "MTIwMDEzODM0MTc1MzA0MDkwNg.GfNNEQ.W6ZCflzXBqOmY1AWwTStyLa7RCJnWiCSNmVo-Y" # The token of the discord bot
+    "Username": "hoops_washiez", # The Username Of The Account Running The Bot
+    "DiscordBotToken": "MTQzNjM5MzUzNzcyNTAxMDA4OQ.GoBX0L.2um5aAHLBwmOFFQBDmCE8hxNKXBak6xS73DbKI" # The token of the discord bot
 }
 username = Config['Username']
 
